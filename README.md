@@ -2,6 +2,8 @@
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&theme=tokyonight)
 
+
+
 ## Tecnologias que mais utilizo
 
 <div style = "display: inline_block"><br/>
