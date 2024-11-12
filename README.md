@@ -1,13 +1,13 @@
 ### Igor Alves
 
 <p>
-    <picture align="top">
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true' alt='My-Github-Stats'>
+        <img align="top" src='https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true' alt='My-Github-Stats'>
     </picture>
-    <picture align="top">
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&custom_title=Languages&langs_count=5&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
+        <img align="top" src='https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
     </picture>
 </p>
 
