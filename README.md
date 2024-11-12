@@ -1,7 +1,7 @@
 ### Igor Alves
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&show_progress=true)
 
 
 ## Tecnologias que mais utilizo
