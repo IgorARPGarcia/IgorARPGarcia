@@ -1,7 +1,15 @@
 ### Igor Alves
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&theme=tokyonight)
+<p>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api?username=theja-vanka&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Stats&hide_border=true' alt='My-Github-Stats'>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=theja-vanka&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
+    </picture>
+</p>
 
 ## Tecnologias que mais utilizo
 
