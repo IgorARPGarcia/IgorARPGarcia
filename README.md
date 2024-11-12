@@ -1,7 +1,6 @@
 ### Igor Alves
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&show_progress=true)
-
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&theme=tokyonight)
 
 
