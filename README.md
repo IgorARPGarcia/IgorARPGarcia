@@ -7,7 +7,7 @@
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&custom_title=Languages&langs_count=3&hide_border=true&hide=html%23css%23MATLAB&theme=github_dark">
-        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&custom_title=Extensions&langs_count=3&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
+        <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&custom_title=Extensions&langs_count=5&hide_border=true&hide=html%23css%23MATLAB' alt='Top-Extensions'>
     </picture>
 </p>
 
