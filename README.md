@@ -1,8 +1,7 @@
 ### Igor Alves
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorARPGarcia&show_progress=true)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorARPGarcia&show_icons=true&theme=tokyonight)
-media="(prefers-color-scheme: dark)"
 
 ## Tecnologias que mais utilizo
 
