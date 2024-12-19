@@ -22,6 +22,5 @@
 
 <p>
     <img width = "100" height = "100" align = "center" alt= "Git" src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-    <img width = "100" height = "100" align = "center" alt= "MySQL" src = "https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"/>
 </p>
 
