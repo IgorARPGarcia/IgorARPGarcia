@@ -22,7 +22,7 @@
 
 <p>
     <img width = "100" height = "100" align = "center" alt= "Angular" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
-    <img width = "100" height = "100" align = "center" alt= "React" src = "[https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png](https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png)"/>
+    <img width = "100" height = "100" align = "center" alt= "React" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
 </p>
 
 <p>
