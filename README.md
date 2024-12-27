@@ -26,7 +26,7 @@
 </p>
 
 <p>
-    <img width = "100" height = "100" align = "center" alt = "Postgre" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+    <img width = "100" height = "100" align = "center" alt = "Postgre" src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
     <img width = "100" height = "100" align = "center" alt= "Git" src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 </p>
 
