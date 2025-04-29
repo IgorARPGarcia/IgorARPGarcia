@@ -14,7 +14,7 @@
 ## Tecnologias que mais utilizo
 
 <p>
-    <img width = "100" height = "100" align = "center" alt= "Python" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+    <img width = "100" height = "100" align = "center" alt= "Python" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
     <img width = "100" height = "100" align = "center" alt= "Java" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
     <img width = "100" height = "100" align = "center" alt= "C#" src = "https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
     <img width = "100" height= "100" align = "center" alt = "Html" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
