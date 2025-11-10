@@ -12,7 +12,7 @@
     </picture>
 </p>
 
-## Tecnologias que mais utilizo
+#### Tecnologias que mais utilizo
 
 <div>
     <h2>Back-End</h2>
