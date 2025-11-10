@@ -58,5 +58,6 @@
 <div>
     <h2>Redes Sociais</h2>
     <a href="https://www.linkedin.com/in/igor-alves-2b8a302bb"><img width=100 height=50 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=higoralves112@gmail.com"><img width=100 height=50 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
