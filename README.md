@@ -21,10 +21,17 @@
     <img width = "100" height = "100" align = "center" alt = "Css" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
 </p>
 
-<p>
-    <img width = "100" height = "100" align = "center" alt= "Angular" src = "https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"/>
-    <img width = "100" height = "100" align = "center" alt= "React" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
-</p>
+<div>
+    <h2>Front-End</h2>
+    <p>
+        <img width = "100" height = "100" align = "center" alt= "Next" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png"/>
+        <img width = "100" height = "100" align = "center" alt= "TailwindCSS" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
+        <img width = "100" height = "100" align = "center" alt= "Angular" src = "https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"/>
+        <img width = "100" height = "100" align = "center" alt= "React" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
+        <img width = "100" height = "100" align = "center" alt= "TypeScript" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/>
+        <img width = "100" height = "100" align = "center" alt= "JavaScript" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
+    </p>
+</div>
 
 <p>
     <img width = "100" height = "100" align = "center" alt = "Postgre" src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
