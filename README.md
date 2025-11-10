@@ -38,10 +38,19 @@
     </p>
 </div>
 
-<p>
-    <img width = "100" height = "100" align = "center" alt = "Postgre" src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
-    <img width = "100" height = "100" align = "center" alt = "Postgre" src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
-    <img width = "100" height = "100" align = "center" alt = "Postgre" src = "(https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/>
-    <img width = "100" height = "100" align = "center" alt= "Git" src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-</p>
+<div>
+    <h2>Banco de dados</h2>
+        <p>
+            <img width = "100" height = "100" align = "center" alt = "MySQL" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
+            <img width = "100" height = "100" align = "center" alt = "PostgreSQL" src = "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"/>
+            <img width = "100" height = "100" align = "center" alt = "SQLServer" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png"/>
+        </p>
+</div>
+
+<div>
+    <h2>Versionamento</h2>
+    <p>
+        <img width = "100" height = "100" align = "center" alt= "Git" src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+    </p>
+</div>
 
