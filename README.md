@@ -13,13 +13,14 @@
 
 ## Tecnologias que mais utilizo
 
-<p>
-    <img width = "100" height = "100" align = "center" alt= "Python" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
-    <img width = "100" height = "100" align = "center" alt= "Java" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
-    <img width = "100" height = "100" align = "center" alt= "C#" src = "https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
-    <img width = "100" height= "100" align = "center" alt = "Html" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
-    <img width = "100" height = "100" align = "center" alt = "Css" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
-</p>
+<div>
+    <h2>Back-End</h2>
+    <p>
+        <img width = "100" height = "100" align = "center" alt= "Java" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+        <img width = "100" height = "100" align = "center" alt= "C#" src = "https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"/>
+        <img width = "100" height = "100" align = "center" alt= "Python" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+    </p>
+</div>
 
 <div>
     <h2>Front-End</h2>
@@ -28,6 +29,8 @@
         <img width = "100" height = "100" align = "center" alt= "TailwindCSS" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"/>
         <img width = "100" height = "100" align = "center" alt= "Angular" src = "https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"/>
         <img width = "100" height = "100" align = "center" alt= "React" src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
+        <img width = "100" height= "100" align = "center" alt = "Html" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"/>
+        <img width = "100" height = "100" align = "center" alt = "Css" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
         <img width = "100" height = "100" align = "center" alt= "TypeScript" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png"/>
         <img width = "100" height = "100" align = "center" alt= "JavaScript" src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
     </p>
